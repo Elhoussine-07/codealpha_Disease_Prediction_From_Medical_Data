@@ -1,0 +1,3 @@
+INFO:root:heart_disease.csv - RandomForest Accuracy: 1.0000 - Training time: 0.14s
+INFO:root:heart_disease.csv - LogisticRegression Accuracy: 0.8634 - Training time: 0.29s
+INFO:root:heart_disease.csv - XGBoost Accuracy: 1.0000 - Training time: 0.11s

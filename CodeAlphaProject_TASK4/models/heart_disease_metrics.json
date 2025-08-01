@@ -1,0 +1,14 @@
+{
+    "RandomForest": {
+        "accuracy": 1.0,
+        "training_time": 0.2412116527557373
+    },
+    "LogisticRegression": {
+        "accuracy": 0.8195121951219512,
+        "training_time": 0.30585289001464844
+    },
+    "XGBoost": {
+        "accuracy": 1.0,
+        "training_time": 0.08302569389343262
+    }
+}
